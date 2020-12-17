@@ -3,3 +3,5 @@ git status
 git add .
 .gitignore
 git commit -am 'isi keterangan'
+git config --global user.email "diisi email"
+git config --global user.name "diisi username git"
